@@ -27,4 +27,4 @@ echo "
 [Ddoser Tool] --> git clone git clone https://github.com/cyweb/hammer
 [Termux Desinger] --> git clone git clone https://github.com/Bhaviktutorials/T-Remix "|lolcat
 echo " 
-<─────[ Hello Welcome To FocusedTool Is Beta Sorry ]─────> "|lolcat
+<─────[ Hello Welcome Do cd And Use Please]─────> "|lolcat
