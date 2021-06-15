@@ -4,3 +4,5 @@
 ### 3. Command : cd FocusedTool
 ### 4. Command : chmod +x *
 ### 5. Command : bash setup-Tool.sh
+### 6. Command : bash FocusedTool.sh
+
