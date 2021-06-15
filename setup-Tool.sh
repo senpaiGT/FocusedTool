@@ -40,6 +40,4 @@ echo "
 echo " "
 echo " "
 echo " 
-<─────[ Please Wait! ]─────> "|lolcat
-sleep (4)
-bash FocusedTool.sh
+<─────[ Please Do bash FocusedTool.sh ]─────> "|lolcat
