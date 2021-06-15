@@ -24,7 +24,7 @@ echo "
 ╰╯╱╱╰━━┻━━┻━━┻━━┻━━┻━━╯╱╰╯╰━━┻━━┻━╯ BETA VERSİON "|lolcat
 echo " "
 echo " 
-[Ddoser Tool] --> git clone git clone https://github.com/cyweb/hammer
-[Termux Desinger] --> git clone git clone https://github.com/Bhaviktutorials/T-Remix "|lolcat
+[Ddoser Tool] --> git clone https://github.com/cyweb/hammer
+[Termux Desinger] --> git clone https://github.com/Bhaviktutorials/T-Remix "|lolcat
 echo " 
 <─────[ Hello Welcome Do cd And Use Please]─────> "|lolcat
