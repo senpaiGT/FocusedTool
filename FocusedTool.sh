@@ -37,6 +37,7 @@ clear
 clear
    echo " <───[ Done Installing do cd and ls ]───> "|lolcat
 figlet -f big Ty For Using
+
 else
 tput cup 17 23
 clear
