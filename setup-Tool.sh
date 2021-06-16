@@ -13,6 +13,7 @@ pip install lolcat
 gem install lolcat
 apt-get install toilet -y
 pkg install ncurses-utils -y
+pkg install figlet
 
 
 clear
