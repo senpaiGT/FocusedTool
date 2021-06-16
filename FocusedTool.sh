@@ -24,7 +24,23 @@ echo "
 ╰╯╱╱╰━━┻━━┻━━┻━━┻━━┻━━╯╱╰╯╰━━┻━━┻━╯ BETA VERSİON "|lolcat
 echo " "
 echo " 
-[Ddoser Tool] --> git clone https://github.com/cyweb/hammer
-[Termux Desinger] --> git clone https://github.com/Bhaviktutorials/T-Remix "|lolcat
+[1] Ddoser Tool "|lolcat
 echo " 
-<─────[ Hello Welcome Do cd And Use Please]─────> "|lolcat
+<─────[ What You Do? ]─────> "|lolcat
+echo -en "\e[93m #:\e[m"
+read answer
+if [ "$answer" != "${answer#[1]}" ] ;then
+tput cup 17 21
+clear
+ cd
+ git clone https://github.com/cyweb/hammer
+clear
+   echo " <───[ Done Installing do cd and ls ]───> "|lolcat
+figlet -f big Ty For Using
+else
+tput cup 17 23
+clear
+echo " <──[ Pls Enter True Mumber ]──> "|lolcat
+sleep 1
+    bash FocusedTool.sh
+fi
